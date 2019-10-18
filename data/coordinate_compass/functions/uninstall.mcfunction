@@ -7,9 +7,12 @@ tellraw @a ["",{"text":"Removing all scoreboards for Coordinate Compass...","col
 scoreboard objectives remove cc_posX
 scoreboard objectives remove cc_posY
 scoreboard objectives remove cc_posZ
+
 scoreboard objectives remove cc_portalX
 scoreboard objectives remove cc_portalY
 scoreboard objectives remove cc_portalZ
+
+scoreboard objectives remove cc_distance
 
 tellraw @a ["",{"text":"Coordinate Compass successful uninstalled!","color":"green"}]
 
