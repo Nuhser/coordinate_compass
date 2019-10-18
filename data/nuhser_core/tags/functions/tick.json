@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"coordinate_compass:tick"
+		"coordinate_compass:_tick"
 	]
 }

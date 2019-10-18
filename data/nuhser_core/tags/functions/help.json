@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"coordinate_compass:help"
+		"coordinate_compass:_help"
 	]
 }
