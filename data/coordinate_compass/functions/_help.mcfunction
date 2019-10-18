@@ -5,5 +5,5 @@
 tellraw @a[scores={help=1}] [{"text":">  "},{"text":"[Coordinate Compass]","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger help set 15"} }]
 
 #explanation of nuhser mod
-tellraw @a[scores={help=15}] [{"text":"Coordinate Compass","underlined":true,"color":"dark_aqua"},{"text":" (v0.0.0)","underlined":false}]
-tellraw @a[scores={help=15}] [{"text":"Work in progress!"}]
+tellraw @a[scores={help=15}] [{"text":"\nCoordinate Compass","underlined":true,"color":"dark_aqua"},{"text":" (v1.0.0)\n","underlined":false}]
+tellraw @a[scores={help=15}] [{"text": "With this datapack you can use a compass to see your current position and the direction you're facing in (only in the overworld). All you have to is rename a compass to "}, {"text": "Coordinates", "color": "light_purple"}, {"text": ".\nIf you hold the compass in your ", "color": "reset"}, {"text": "main hand","bold": true}, {"text":  ", you will see your coordinates.\nIf you are in the nether, you can put it in your ", "bold": false}, {"text": "offhand", "bold": true}, {"text": " to see the coordinates of the last portal entered and the distance to it.", "bold": false}]
