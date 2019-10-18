@@ -1,5 +1,5 @@
 #>
-# Called by: coordinate_compass:tick <PLAYER>
+# Called by: coordinate_compass:_tick <PLAYER>
 
 # save coordinates
 execute store result score @s cc_portalX run data get entity @s Pos[0] 1
