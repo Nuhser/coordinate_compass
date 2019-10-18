@@ -8,6 +8,8 @@ scoreboard objectives remove cc_posX
 scoreboard objectives remove cc_posY
 scoreboard objectives remove cc_posZ
 
+scoreboard objectives add cc_rotation
+
 scoreboard objectives remove cc_portalX
 scoreboard objectives remove cc_portalY
 scoreboard objectives remove cc_portalZ

@@ -11,6 +11,8 @@ scoreboard objectives add cc_posX dummy
 scoreboard objectives add cc_posY dummy
 scoreboard objectives add cc_posZ dummy
 
+scoreboard objectives add cc_rotation dummy
+
 scoreboard objectives add cc_portalX dummy
 scoreboard objectives add cc_portalY dummy
 scoreboard objectives add cc_portalZ dummy
