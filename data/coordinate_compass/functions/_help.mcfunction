@@ -1,4 +1,4 @@
-#>
+#> This function is used to print coordinate_compass's help message.
 #Called by: #nuhser_core:help <SERVER>
 
 #item for list of installed mods

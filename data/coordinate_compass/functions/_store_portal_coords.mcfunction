@@ -1,4 +1,4 @@
-#>
+#> This function stores the coordinates of the nether portal when entering the nether.
 # Called by: coordinate_compass:_tick <PLAYER>
 
 # save coordinates

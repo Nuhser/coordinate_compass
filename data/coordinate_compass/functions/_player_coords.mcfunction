@@ -1,4 +1,4 @@
-#>
+#> This function print the current coordinates and the direction the player is facing as a title in the action bar.
 # Called by: coordinate_compass:_tick <PLAYER>
 
 # save coordinates

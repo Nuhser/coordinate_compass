@@ -1,4 +1,4 @@
-#>
+#> This function initializes all scoreboards for the datapack.
 # Called by: #nuhser_core:init <SERVER>
 
 tellraw @a ["",{"text":"----------------------------------------"}]

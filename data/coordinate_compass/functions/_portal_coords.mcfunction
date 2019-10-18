@@ -1,4 +1,4 @@
-#> 
+#> This function prints calculates the distance to your nether portal and print the coordinates and the distance as a title in the action bar.
 # Called by: coordinate_compass:_tick <PLAYER>
 
 # save coordinates

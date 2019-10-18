@@ -1,4 +1,4 @@
-#>
+#> This function removes all scoreboards and disables the datapack.
 # Called by: #nuhser_core:uninstall <SERVER>
 
 # remove scoreboards
@@ -8,7 +8,7 @@ scoreboard objectives remove cc_posX
 scoreboard objectives remove cc_posY
 scoreboard objectives remove cc_posZ
 
-scoreboard objectives add cc_rotation
+scoreboard objectives remove cc_rotation
 
 scoreboard objectives remove cc_portalX
 scoreboard objectives remove cc_portalY
