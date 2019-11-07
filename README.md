@@ -6,7 +6,7 @@
 
 **Requires [nuhser_core v3.0.4b](https://github.com/Nuhser/nuhser_core/releases/tag/v3.0.4b "Nuhser_Core") to be installed first!**
 
-With this datapack you can use a compass to see your current position and the direction you're facing in (only in the overworld). All you have to is rename a compass to `Coordinates`.
+With this datapack you can use a compass to see your current position and the direction you're facing in (only in the overworld).
 
 If you hold the compass in your **main hand**, you will see your coordinates.
 
