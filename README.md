@@ -4,7 +4,7 @@
 
 <br>
 
-**Requires [nuhser_core v3.0.4b](https://github.com/Nuhser/nuhser_core/releases/tag/v3.0.4b "Nuhser_Core") to be installed first!**
+**Requires [nuhser_core v4.0.0](https://github.com/Nuhser/nuhser_core/releases "Nuhser_Core") or newer to be installed first!**
 
 With this datapack you can use a compass to see your current position and the direction you're facing in (only in the overworld).
 
