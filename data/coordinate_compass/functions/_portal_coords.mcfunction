@@ -22,7 +22,7 @@ scoreboard players operation @s cc_distance += @s cc_posY
 scoreboard players operation @s cc_distance += @s cc_posZ
 
 scoreboard players operation $n nc_square = @s cc_distance
-function nuhser_core:math/square
+function nuhser_core:math/_square
 scoreboard players operation @s cc_distance = $i nc_square
 
 # print coordinates in action bar
